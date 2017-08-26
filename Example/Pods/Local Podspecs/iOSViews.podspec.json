@@ -1,0 +1,22 @@
+{
+  "name": "iOSViews",
+  "version": "0.1.0",
+  "summary": "A short description of iOSViews.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sachinakhaire/iOSViews",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sachinakhaire": "mr.sachin11@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/sachinakhaire/iOSViews.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iOSViews/Classes/**/*"
+}
