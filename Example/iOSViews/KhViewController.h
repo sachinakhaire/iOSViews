@@ -9,5 +9,5 @@
 @import UIKit;
 
 @interface KhViewController : UIViewController
-
+- (void)viewDidLoad;
 @end
